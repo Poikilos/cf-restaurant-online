@@ -49,7 +49,11 @@ php -S localhost:8002
   you.** I have only created this repo since the program is not
   maintained nor supported by the author, Codersfolder, and the code and
   sql file that generates the database were both formerly only on
-  MediaFire (which has dangerous ads).
+  MediaFire (which has dangerous ads so don't go to the following links
+  [from the original Coders Folder blog article] which are only provided
+  for backup purposes:
+  http://www.mediafire.com/file/nc8ogjo1fab9ai9/restaurant.zip nor
+  http://www.mediafire.com/file/sid26jqdo826pqi/restaurant.sql).
 
 ## References
 [Codersfolder]. (2018, Mar 1). Restaurant Management System Open Source
