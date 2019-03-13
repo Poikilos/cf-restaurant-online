@@ -16,11 +16,12 @@
   git directory, then:
 ```
 cd cf-restaurant-online
-php -S localhost:8000
+php -S localhost:8002
 ```
 * With that Window still open, open a web browser and put the address
   in the address bar at the very top of your browser or click this link:
-  <http://localhost:8000>
+  <http://localhost:8002> or <http://127.0.0.1:8002>
+  (using whatever port you used above)
 * Login using Super Admin login:
   email: admin@admin.com password: password
   database name: restaurant
@@ -31,7 +32,13 @@ php -S localhost:8000
 ## Support
 * Please post issues at
   <https://github.com/poikilos/cf-restaurant-online/issues> after
-  ensuring that the issue is not already there.
+  ensuring that the issue is not already there. Make sure that you
+  provide the exact error message. You can take a screenshot on Windows
+  by pressing the print screen (PrntScrn) key then going to Paint and
+  clicking Paste. Then you can save the file and upload it as an
+  attachment to your issue, or retype the error there. You can often get
+  more details about the error by running the program with "php -S" as
+  shown in the "[Install](#Install)" instructions above.
   _(Coders Folder is not responding to issues on
   <https://www.youtube.com/watch?v=3OlzL-aIdmk> nor
   <https://codersfolder.com/2018/03/restaurant-management-system-codeigniter/>)_
