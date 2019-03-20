@@ -7,6 +7,9 @@
 > table management and restaurant billing software too.
 > (Codersfolder, 2018)
 
+## If You Make Changes
+Click "Fork" at [github.com/poikilos/cf-restaurant-online](https://github.com/poikilos/cf-restaurant-online) then using GitHub Desktop clone your repository, and paste your changes in there, then commit and push. That will help others in the community, as this is an open source project.﻿
+
 ## Install
 * Make sure php is installed.
 * Download the zip and extract such as to Downloads in order to follow
