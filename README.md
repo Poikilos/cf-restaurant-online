@@ -8,8 +8,22 @@
 > (Codersfolder, 2018)
 
 ## If You Make Changes
-Click "Fork" at [the cf-restaurant-online GitHub page](https://github.com/poikilos/cf-restaurant-online) then using [GitHub Desktop](https://desktop.github.com/) click clone, choose your repository, paste your changes into the folder it created (such as Documents/GitHub/cf-restaurant-online), then *commit* and *push* in GitHub Desktop. That will help others in the community, as this is an open source project.
-If your changes are fixes, or if your enhancement is applicable to others and should be part of the main project, then after you commit and push click "Pull requests," at [the cf-retaurant-online GitHub page](https://github.com/poikilos/cf-restaurant-online), New Pull Request, then compare across forks, and choose yours under "compare." Describe your changes, then click "Create Pull Request." If you like fixes and improvements, do this to encourage others to do the same. This will lighten the load and is a main purpose behind open source. This is also the only way the project will be maintained, as the original author is not responding to requests.
+Click "Fork" at
+[the cf-restaurant-online GitHub page](https://github.com/poikilos/cf-restaurant-online)
+then using [GitHub Desktop](https://desktop.github.com/) click clone,
+choose your repository, paste your changes into the folder it created
+(such as Documents/GitHub/cf-restaurant-online), then *commit* and
+*push* in GitHub Desktop. That will help others in the community, as
+this is an open source project. If your changes are fixes, or if your
+enhancement is applicable to others and therefore should be part of
+the main project, then after you commit and push click "Pull requests,"
+at [the cf-retaurant-online GitHub page](https://github.com/poikilos/cf-restaurant-online),
+New Pull Request, then compare across forks, and choose yours under
+"compare." Describe your changes, then click "Create Pull Request."
+If you like fixes and improvements, do this to encourage others to
+do the same. This will lighten the load and is a main purpose behind
+open source. This is also the only way the project will be maintained,
+as the original author is not responding to requests.
 
 ## Install
 * Make sure php is installed.
@@ -33,8 +47,23 @@ php -S localhost:8002
 * Close php, then copy the folder to your web server (only after
   changing the password).
 
+## Known Issues
+There may be other issues posted as comments at:
+* [Online Restaurant Management System](https://codersfolder.com/2018/03/restaurant-management-system-codeigniter/) (on Coders Folder [original author] website)
+* [Online Inventory Management Software - Free web application software](https://www.youtube.com/watch?v=jk8L4_Wx40U) (YouTube - Feb 24, 2018) 
+* [Install Restaurant Management System tutorial](https://www.youtube.com/watch?v=6-XDCZUk34s) (YouTube - Mar 1, 2018)
+* [Restaurant Management System Open Source Project - PHP](https://www.youtube.com/watch?v=3OlzL-aIdmk) (YouTube - Mar 1, 2018)
+
 ## Support
-* Please post issues at
+* If you find issues there and fix them, please follow the "If You Make
+  Changes" instructions in this
+  [README.md](https://github.com/poikilos/cf-restaurant-online/blob/master/README.md)
+  file.
+* If you already have posted an issue above and don't know how to fix it,
+  click "Issues" above then "New issue" and post a complete description
+  of your issue. The original author generally hasn't been responding to
+  issues at the links above, so this project is now community supported.
+* Please post all issues at
   <https://github.com/poikilos/cf-restaurant-online/issues> after
   ensuring that the issue is not already there. Make sure that you
   provide the exact error message. You can take a screenshot on Windows
