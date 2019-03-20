@@ -53,6 +53,8 @@ There may be other issues posted as comments at:
 * [Online Inventory Management Software - Free web application software](https://www.youtube.com/watch?v=jk8L4_Wx40U) (YouTube - Feb 24, 2018) 
 * [Install Restaurant Management System tutorial](https://www.youtube.com/watch?v=6-XDCZUk34s) (YouTube - Mar 1, 2018)
 * [Restaurant Management System Open Source Project - PHP](https://www.youtube.com/watch?v=3OlzL-aIdmk) (YouTube - Mar 1, 2018)
+* Any issues above or new issues should be posted on this new community
+  repository, by clicking "Issues" (read "Support" below first).
 
 ## Support
 * If you find issues there and fix them, please follow the "If You Make
