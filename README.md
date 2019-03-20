@@ -8,7 +8,7 @@
 > (Codersfolder, 2018)
 
 ## If You Make Changes
-Click "Fork" at [github.com/poikilos/cf-restaurant-online](https://github.com/poikilos/cf-restaurant-online) then using GitHub Desktop clone your repository, and paste your changes in there, then commit and push. That will help others in the community, as this is an open source project.
+Click "Fork" at [github.com/poikilos/cf-restaurant-online](https://github.com/poikilos/cf-restaurant-online) then using [GitHub Desktop](https://desktop.github.com/) click clone, choose your repository, paste your changes into the folder it created (such as Documents/GitHub/cf-restaurant-online), then *commit* and *push* in GitHub Desktop. That will help others in the community, as this is an open source project.
 If your fix is applicable to others and should be part of the main project, then after you commit and push click "Pull requests," at same GitHub page, New Pull Request, then compare across forks, and choose yours under "compare." Describe your fixes, then click "Create Pull Request." If you like fixes, do this, and encourage others making changes to do so as well. This will lighten the load and is a main purpose of open source. This is also the only way the project will be maintained, as the original author is not responding to requests.
 
 ## Install
