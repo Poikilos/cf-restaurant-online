@@ -57,10 +57,9 @@ There may be other issues posted as comments at:
   repository, by clicking "Issues" (read "Support" below first).
 
 ## Support
-* If you find issues there and fix them, please follow the "If You Make
-  Changes" instructions in this
-  [README.md](https://github.com/poikilos/cf-restaurant-online/blob/master/README.md)
-  file.
+* If you find issues there and fix them, please follow the ["If You Make
+  Changes"](https://github.com/poikilos/cf-restaurant-online/blob/master/README.md#if-you-make-changes)
+  instructions in this README.md file.
 * If you already have posted an issue above and don't know how to fix it,
   click "Issues" above then "New issue" and post a complete description
   of your issue. The original author generally hasn't been responding to
