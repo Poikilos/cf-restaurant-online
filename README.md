@@ -10,7 +10,7 @@
 ## If You Make Changes
 Click "Fork" at
 [the cf-restaurant-online GitHub page](https://github.com/poikilos/cf-restaurant-online).
-For more information see [CONTRIBUTING.md](https://github.com/poikilos/cf-restaurant-online/blob/master/CONTRIBUTING.md)--This project needs code not money!
+For more information see [CONTRIBUTING.md](https://github.com/poikilos/cf-restaurant-online/blob/master/CONTRIBUTING.md) (code not money).
 
 ## Install
 * Make sure php is installed.
